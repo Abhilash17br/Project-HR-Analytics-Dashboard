@@ -12,6 +12,7 @@
 ## Problem Statement: To Get
 
 *Employee Working preferences  between Work From Home and Work From Office.*
+
 *Percentage of overall sick leave to monitor employee wellness and Discipline.*
 
 ## Tools Used:
@@ -27,4 +28,4 @@
 
 *The overall attendence trend weekly and monthly, helps HR to indentify seasonal flu, so that they can plan working toward preventing by sanatizing or getting flu shots etc..*
 
-# Thank you.
+## Thank you.
